@@ -1,0 +1,33 @@
+#googleimg{
+    height: 100%;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 109px;
+}
+#searchbox{
+    height: 20px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 20px;
+}
+#searchbox:hover{
+    box-shadow: 0px 0px gray;
+}
+#info{
+    position:absolute;
+   bottom:0;
+   width: 100vmax;
+   height:60px;
+   background:rgb(216, 216, 216);
+}
+body{
+    margin: 0px 0px 0px 0px;
+    font-family: 'Montserrat', sans-serif;
+}
